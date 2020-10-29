@@ -16,3 +16,4 @@ https://link-springer-com-443.webvpn.jnu.edu.cn/chapter/10.1007%2F978-3-030-3957
 https://www.quora.com/How-can-a-machine-learning-engineer-help-a-small-restaurant-owner-improve-their-business
 https://www.quora.com/unanswered/How-can-AI-ML-benefit-non-tech-savvy-small-businesses
 https://pos.toasttab.com/blog/on-the-line/ai-for-restaurants
+https://etda.libraries.psu.edu/files/final_submissions/8189
