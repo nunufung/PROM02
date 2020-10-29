@@ -13,3 +13,4 @@ https://www.forbes.com/sites/lanabandoim/2019/03/30/using-machine-learning-to-im
 https://spd.group/machine-learning/machine-learning-and-ai-in-food-industry/
 https://www.bcg.com/publications/2018/feeding-algorithm-restaurants-use-data-capture-competitive-advantage
 https://link-springer-com-443.webvpn.jnu.edu.cn/chapter/10.1007%2F978-3-030-39575-9_4
+https://www.quora.com/How-can-a-machine-learning-engineer-help-a-small-restaurant-owner-improve-their-business
