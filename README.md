@@ -19,3 +19,4 @@ https://pos.toasttab.com/blog/on-the-line/ai-for-restaurants
 https://etda.libraries.psu.edu/files/final_submissions/8189
 https://www.kaggle.com/allenkong/restaurant-revenue-prediction/data#Feature-Engineering
 https://medium.com/analytics-vidhya/restaurant-sales-prediction-using-machine-learning-24928a2e3206
+https://slideplayer.com/slide/12685041/ (***)
