@@ -17,3 +17,4 @@ https://www.quora.com/How-can-a-machine-learning-engineer-help-a-small-restauran
 https://www.quora.com/unanswered/How-can-AI-ML-benefit-non-tech-savvy-small-businesses
 https://pos.toasttab.com/blog/on-the-line/ai-for-restaurants
 https://etda.libraries.psu.edu/files/final_submissions/8189
+https://www.kaggle.com/allenkong/restaurant-revenue-prediction/data#Feature-Engineering
