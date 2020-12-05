@@ -25,5 +25,6 @@ https://eudl.eu/pdf/10.1007/978-3-319-33681-7_40
 http://kpei.me/blog/wp-content/uploads/2015/05/TFIKaggleReport.pdf
 https://www.kaggle.com/headsortails/be-my-guest-recruit-restaurant-eda
 https://github.com/awesomedata/awesome-public-datasets#finance
+https://www.researchgate.net/publication/338982772_Comparison_of_Machine_Learning_Algorithms_in_Restaurant_Revenue_Prediction
 
 
