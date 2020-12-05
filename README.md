@@ -27,4 +27,8 @@ https://www.kaggle.com/headsortails/be-my-guest-recruit-restaurant-eda
 https://github.com/awesomedata/awesome-public-datasets#finance
 https://www.researchgate.net/publication/338982772_Comparison_of_Machine_Learning_Algorithms_in_Restaurant_Revenue_Prediction
 
+# machine learning roadmap
+https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva@2Ux7TurymMhAvq3Jgmyv
+
+
 
