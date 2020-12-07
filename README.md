@@ -27,6 +27,10 @@ https://www.kaggle.com/headsortails/be-my-guest-recruit-restaurant-eda
 https://github.com/awesomedata/awesome-public-datasets#finance
 https://www.researchgate.net/publication/338982772_Comparison_of_Machine_Learning_Algorithms_in_Restaurant_Revenue_Prediction
 
+# Data cleaning - Missing Data 
+https://www.kdnuggets.com/2017/09/missing-data-imputation-using-r.html
+https://gist.githubusercontent.com/mmmayo13/0b2ae283df6a94b3b962d6b3f22338b0/raw/c146a72403a4eb460aef5de4e2b938afd06f5a66/data-imputation.r
+
 # machine learning roadmap
 https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva@2Ux7TurymMhAvq3Jgmyv
 
