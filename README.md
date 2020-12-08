@@ -26,6 +26,7 @@ http://kpei.me/blog/wp-content/uploads/2015/05/TFIKaggleReport.pdf
 https://www.kaggle.com/headsortails/be-my-guest-recruit-restaurant-eda
 https://github.com/awesomedata/awesome-public-datasets#finance
 https://www.researchgate.net/publication/338982772_Comparison_of_Machine_Learning_Algorithms_in_Restaurant_Revenue_Prediction
+https://www.kaggle.com/kabure/exploring-the-consumer-patterns-ml-pipeline
 
 # Data cleaning - Missing Data 
 https://www.kdnuggets.com/2017/09/missing-data-imputation-using-r.html
