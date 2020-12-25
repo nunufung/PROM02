@@ -35,5 +35,8 @@ https://gist.githubusercontent.com/mmmayo13/0b2ae283df6a94b3b962d6b3f22338b0/raw
 # machine learning roadmap
 https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva@2Ux7TurymMhAvq3Jgmyv
 
+# Similar model 
+https://www.kaggle.com/khotijahs1/predict-who-will-move-to-a-new-job#Experience
+
 
 
