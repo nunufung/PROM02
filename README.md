@@ -41,5 +41,7 @@ https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva@2Ux7TurymMhAvq3Jgmyv
 https://www.kaggle.com/khotijahs1/predict-who-will-move-to-a-new-job#Experience
 https://github.com/leiii/restaurant
 
+# Lazyproduct
+https://medium.com/swlh/lazy-predict-for-ml-models-c513a5daf792
 
 
