@@ -43,5 +43,5 @@ https://github.com/leiii/restaurant
 
 # Lazyproduct
 https://medium.com/swlh/lazy-predict-for-ml-models-c513a5daf792
-
+https://www.kaggle.com/dheerajchaudhary/eda-data-cleaning-visualization-lazypredict
 
