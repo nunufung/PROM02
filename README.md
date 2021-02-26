@@ -43,6 +43,7 @@ https://www.kaggle.com/khotijahs1/predict-who-will-move-to-a-new-job#Experience
 https://github.com/leiii/restaurant
 https://www.kaggle.com/headsortails/be-my-guest-recruit-restaurant-eda
 https://www.kaggle.com/khanhdnguyen/restaurantrevenueprediction
+https://www.kaggle.com/ahayek84/restaurant-revenue-predict
 
 # Lazyproduct
 https://medium.com/swlh/lazy-predict-for-ml-models-c513a5daf792
