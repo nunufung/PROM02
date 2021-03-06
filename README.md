@@ -34,6 +34,7 @@ https://www.youtube.com/watch?v=ohh4fEbhcTQ
 https://www.kdnuggets.com/2017/09/missing-data-imputation-using-r.html
 https://gist.githubusercontent.com/mmmayo13/0b2ae283df6a94b3b962d6b3f22338b0/raw/c146a72403a4eb460aef5de4e2b938afd06f5a66/data-imputation.r
 https://pbpython.com/dataframe-gui-overview.html
+https://docs.trymito.io/
 
 # machine learning roadmap
 https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva@2Ux7TurymMhAvq3Jgmyv
