@@ -29,6 +29,9 @@ https://www.researchgate.net/publication/338982772_Comparison_of_Machine_Learnin
 https://www.kaggle.com/kabure/exploring-the-consumer-patterns-ml-pipeline
 https://www.youtube.com/watch?v=ohh4fEbhcTQ
 
+# 200 machine learning projects with Python code
+https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
+
 # Machine Learning Algorithms with Python
 https://thecleverprogrammer.com/2020/11/27/machine-learning-algorithms-with-python/
 
