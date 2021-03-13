@@ -29,6 +29,8 @@ https://www.researchgate.net/publication/338982772_Comparison_of_Machine_Learnin
 https://www.kaggle.com/kabure/exploring-the-consumer-patterns-ml-pipeline
 https://www.youtube.com/watch?v=ohh4fEbhcTQ
 
+# Machine Learning Algorithms with Python
+https://thecleverprogrammer.com/2020/11/27/machine-learning-algorithms-with-python/
 
 # Data cleaning - Missing Data 
 https://www.kdnuggets.com/2017/09/missing-data-imputation-using-r.html
@@ -51,7 +53,7 @@ https://www.kaggle.com/thiagopanini/predicting-the-success-of-a-restaurant
 https://medium.com/swlh/lazy-predict-for-ml-models-c513a5daf792
 https://www.kaggle.com/dheerajchaudhary/eda-data-cleaning-visualization-lazypredict
 
-@ Public Data Sources
+# Public Data Sources
 https://data.gov.hk/en-data/dataset/hk-censtatd-tablechart-qsr
 
 
