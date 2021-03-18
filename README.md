@@ -27,6 +27,7 @@ https://github.com/awesomedata/awesome-public-datasets#finance
 https://www.researchgate.net/publication/338982772_Comparison_of_Machine_Learning_Algorithms_in_Restaurant_Revenue_Prediction
 https://www.kaggle.com/kabure/exploring-the-consumer-patterns-ml-pipeline
 https://www.youtube.com/watch?v=ohh4fEbhcTQ
+https://pub.towardsai.net/different-data-splitting-cross-validation-strategies-with-python-ec7cd93764ac
 
 # 200 machine learning projects with Python code
 https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
