@@ -69,6 +69,10 @@ https://www.youtube.com/watch?v=TaNfYKaid80
 # Managing Conda environment
 https://towardsdatascience.com/manage-your-python-virtual-environment-with-conda-a0d2934d5195
 
+# Explainer Dashboard
+https://explainerdashboard.readthedocs.io/en/latest/
+
+
 
 
 
