@@ -66,5 +66,9 @@ https://data.gov.hk/en-data/dataset/hk-censtatd-tablechart-qsr
 https://github.com/MAIF/shapash
 https://www.youtube.com/watch?v=TaNfYKaid80
 
+# Managing Conda environment
+https://towardsdatascience.com/manage-your-python-virtual-environment-with-conda-a0d2934d5195
+
+
 
 
