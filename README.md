@@ -72,7 +72,9 @@ https://towardsdatascience.com/manage-your-python-virtual-environment-with-conda
 # Explainer Dashboard
 https://explainerdashboard.readthedocs.io/en/latest/
 
+# MLP 
+https://medium.com/@AI_with_Kain/understanding-of-multilayer-perceptron-mlp-8f179c4a135f
 
-
-
+# Adam Optimization 
+https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
 
