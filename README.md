@@ -62,8 +62,11 @@ https://thecleverprogrammer.com/2020/11/27/machine-learning-algorithms-with-pyth
 
 # Data cleaning - Missing Data 
 https://www.kdnuggets.com/2017/09/missing-data-imputation-using-r.html
+
 https://gist.githubusercontent.com/mmmayo13/0b2ae283df6a94b3b962d6b3f22338b0/raw/c146a72403a4eb460aef5de4e2b938afd06f5a66/data-imputation.r
+
 https://pbpython.com/dataframe-gui-overview.html
+
 https://docs.trymito.io/
 
 # machine learning roadmap
@@ -71,38 +74,54 @@ https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva@2Ux7TurymMhAvq3Jgmyv
 
 # Similar model 
 https://www.kaggle.com/khotijahs1/predict-who-will-move-to-a-new-job#Experience
+
 https://github.com/leiii/restaurant
+
 https://www.kaggle.com/headsortails/be-my-guest-recruit-restaurant-eda
+
 https://www.kaggle.com/khanhdnguyen/restaurantrevenueprediction
+
 https://www.kaggle.com/ahayek84/restaurant-revenue-predict
+
 https://www.kaggle.com/thiagopanini/predicting-the-success-of-a-restaurant
 
 # Lazyproduct
+
 https://medium.com/swlh/lazy-predict-for-ml-models-c513a5daf792
+
 https://www.kaggle.com/dheerajchaudhary/eda-data-cleaning-visualization-lazypredict
 
 # How to build a machine learning model - data professor 
+
 https://towardsdatascience.com/how-to-build-a-machine-learning-model-439ab8fb3fb1
 
 # Public Data Sources
+
 https://data.gov.hk/en-data/dataset/hk-censtatd-tablechart-qsr
 
 # Shapash - Webapp analysising data and ML model
+
 https://github.com/MAIF/shapash
+
 https://www.youtube.com/watch?v=TaNfYKaid80
 
 # Managing Conda environment
+
 https://towardsdatascience.com/manage-your-python-virtual-environment-with-conda-a0d2934d5195
 
 # Explainer Dashboard
+
 https://explainerdashboard.readthedocs.io/en/latest/
 
 # MLP 
 https://medium.com/@AI_with_Kain/understanding-of-multilayer-perceptron-mlp-8f179c4a135f
 
 # Adam Optimization 
+
 https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
+
 https://towardsdatascience.com/adam-optimization-algorithm-1cdc9b12724a
 
 # newspaper scraping
+
 https://newspaper.readthedocs.io/en/latest/
