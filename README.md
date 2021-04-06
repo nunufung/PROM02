@@ -1,7 +1,7 @@
 # PROM02
 MSc final project
 # Reference links:-
-https://www.researchgate.net/publication/338982772_Comparison_of_Machine_Learning_Algorithms_in_Restaurant_Revenue_Prediction
+
 https://emerj.com/ai-sector-overviews/machine-learning-restaurants-food-services-examples-challenges-trends/
 https://cocoa.ethz.ch/downloads/2018/06/2401_funk_teP.pdf
 https://gist.github.com/analyticsindiamagazine/f9b2ba171a0eef9ad396ce6f1b83bbbc#file-predict_restaurant_food_cost_final-ipynb
