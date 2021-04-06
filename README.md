@@ -3,7 +3,9 @@ MSc final project
 # Reference links:-
 
 https://emerj.com/ai-sector-overviews/machine-learning-restaurants-food-services-examples-challenges-trends/
+
 https://cocoa.ethz.ch/downloads/2018/06/2401_funk_teP.pdf
+
 https://gist.github.com/analyticsindiamagazine/f9b2ba171a0eef9ad396ce6f1b83bbbc#file-predict_restaurant_food_cost_final-ipynb
 http://link-springer-com-443.webvpn.fjmu.edu.cn/chapter/10.1007%2F978-981-15-5258-8_35
 https://www.kaggle.com/c/restaurant-revenue-prediction
