@@ -78,3 +78,6 @@ https://medium.com/@AI_with_Kain/understanding-of-multilayer-perceptron-mlp-8f17
 # Adam Optimization 
 https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c
 https://towardsdatascience.com/adam-optimization-algorithm-1cdc9b12724a
+
+# newspaper scraping
+https://newspaper.readthedocs.io/en/latest/
