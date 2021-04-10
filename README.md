@@ -10,6 +10,8 @@ https://gist.github.com/analyticsindiamagazine/f9b2ba171a0eef9ad396ce6f1b83bbbc#
 
 https://www.kaggle.com/c/restaurant-revenue-prediction
 
+https://www.kaggle.com/khanhdnguyen/restaurantrevenueprediction
+
 https://www.kaggle.com/matt4byu/restaurant-revenue-prediction-analysis
 
 https://www.kaggle.com/anmoldhingra/restaurant-revenue-predictive-analysis
