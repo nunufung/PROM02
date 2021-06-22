@@ -83,6 +83,8 @@ https://www.kaggle.com/ahayek84/restaurant-revenue-predict
 
 https://www.kaggle.com/thiagopanini/predicting-the-success-of-a-restaurant
 
+https://towardsdatascience.com/enterprise-ml-why-building-and-training-a-real-world-model-is-hard-59d09a430fae
+
 # Lazyproduct
 
 https://medium.com/swlh/lazy-predict-for-ml-models-c513a5daf792
@@ -123,3 +125,5 @@ https://towardsdatascience.com/adam-optimization-algorithm-1cdc9b12724a
 # newspaper scraping
 
 https://newspaper.readthedocs.io/en/latest/
+
+
